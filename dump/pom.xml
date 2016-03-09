@@ -50,7 +50,7 @@
 
 						<launcher>
 							<id>extraction</id>
-							<mainClass>org.dbpedia.extraction.dump.extract.Extraction</mainClass>
+							<mainClass>org.dbpedia.extraction.dump.owlextract.ExtractionOWL</mainClass>
 
 							<jvmArgs>
 								<jvmArg>-server</jvmArg>
